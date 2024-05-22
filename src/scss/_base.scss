@@ -26,6 +26,10 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
+.row {
+  background-color: #e9d9ffa8;
+  border: 1px solid #b5abcd;
+}
 a {
   color: inherit;
 }
@@ -37,6 +41,7 @@ video {
   vertical-align: middle;
 }
 
+@import "bootstrap/scss/bootstrap-grid";
 /* ====================================
 // base rules
 // ==================================== */
