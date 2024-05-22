@@ -30,8 +30,20 @@ body {
   background-color: #e9d9ffa8;
   border: 1px solid #b5abcd;
 }
+
 a {
   color: inherit;
+}
+
+.box {
+  background-color: #007bffc2;
+  border: 1px solid #000;
+  text-align: center;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+.col-2 {
+  background-color: rgba(127, 255, 212, 0);
 }
 
 img,
